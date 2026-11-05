@@ -9,9 +9,11 @@
 drafts/
 temp/
 scratch/
+svg_base/
+assets/svg_base/
 assets/raw_references/
 assets/temp/
-svg_base/
+assets/proton_drive/
 
 # ------------------------------------------------------------------------------
 # 2. Arquivos Temporários de Imagem e Arte Vetorial (Inkscape / Upscayl)
@@ -77,8 +79,6 @@ dist/*.tmp
 *.jpg
 *.jpeg
 *.webp
-# Exceção futura explícita, se um dia for indispensável (descomente e ajuste):
-# !assets/covers/exemplo.png
 
 # ------------------------------------------------------------------------------
 # 8. Logs e árvores geradas localmente na raiz
