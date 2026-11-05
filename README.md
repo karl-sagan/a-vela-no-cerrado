@@ -1,9 +1,10 @@
 # 🕯️ Karl Sagan: A Vela no Cerrado
-
 [![Classificação Livre](https://img.shields.io/badge/Classificação-Livre_(All_Ages)-brightgreen.svg)](#-trava-0--diretriz-de-conteúdo)
 [![Formato](https://img.shields.io/badge/Formato-SVG_Híbrido-orange.svg)](#-arquitetura-técnica-pipeline-svg-híbrido)
 [![Licença](https://img.shields.io/badge/Licença-CC_BY--NC--SA_4.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Name_%231_Concluído-blueviolet.svg)](#-status-de-produção--roadmap)
+
+> **Licença:** [CC BY-NC-SA 4.0](LICENSE)
 
 > *"Onda é possibilidade. Bit é decisão. A vela acende onde a névoa fecha."*
 
