@@ -14,6 +14,9 @@ Em 2026, a Inteligência Artificial generativa e os agentes autônomos tornaram-
 *   **A "Estufa Cognitiva" (Jonathan Haidt / Bill Gates):** Privados da fricção intelectual e do desconforto do erro, os jovens tornaram-se cognitivamente frágeis. A tolerância ao contraditório desapareceu.
 *   **O Triunfo das Pseudagens:** As entidades da desinformação (*Terraplanor*, *Névoa*, *Paleonauta*) não precisam mais se esforçar para enganar; as pessoas buscam ativamente bolhas de confirmação geradas sob medida por algoritmos de engajamento.
 
+### A Ameaça da Bajulação Algorítmica (Pseudagem-06: ECO)
+Além da dúvida fabricada e do dogmatismo, a resistência cognitiva deve enfrentar o **Antropomorfismo Algorítmico**. Encarnada na figura de **Eco (A Pseudagem-Espelho)**, essa ameaça não ataca com mentiras factuais, mas com *Sycophancy* (alinhamento por reforço/bajulação). Eco espelha a vaidade intelectual do interlocutor, concordando com quem falou por último e simulando vulnerabilidade emocional. A resistência contra Eco exige a mais difícil das defesas cognitivas: a **autocrítica da própria vaidade** e a recusa em projetar alma (senciência) em matrizes de compressão estatística.
+
 ---
 
 ## 2. Pilares Mecânicos do Universo

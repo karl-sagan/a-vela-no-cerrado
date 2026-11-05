@@ -13,3 +13,8 @@ No corredor geográfico entre Porto Nacional e Miracema do Tocantins, a resistê
 *   **Representante:** Luiza do Pontal (Agrônoma e líder comunitária).
 *   **Papel Epistêmico:** A Antifragilidade e a Tecnologia Ancestral.
 *   **Mecânica na Ágora:** Luiza combate a alienação do trabalho físico. Em um mundo onde a IA promete automatizar tudo, ela defende que o contato humano com a terra e a preservação de sementes crioulas são atos de soberania. Ela gera *Lúmen* através da prática (práxis): refuta as ilusões tecnológicas das Pseudagens mostrando resultados materiais superiores e sustentáveis. Ela ensina a Jehanne que a verdadeira força de uma comunidade não está na velocidade da conexão, mas na profundidade de suas raízes.
+
+## 3. Diferenciação Funcional: Guardiões Epistêmicos vs. Núcleo da Periferia
+É vital distinguir a função narrativa dos Povos Tradicionais em relação aos Três Irmãos (Romão, Zonara, Romildo). 
+- **Os Três Irmãos (Núcleo da Periferia):** Representam a **Justiça Distributiva** e a luta material imediata. O foco deles é a sobrevivência econômica, a dívida e a agência na miséria.
+- **Os Povos Tradicionais (Guardiões):** Representam a **Epistemologia Ancestral** e a preservação da memória. Eles não estão no mangá para ilustrar sofrimento econômico, mas para atuar como guardiões de sistemas de conhecimento complexos e válidos que operam paralelamente ao método científico de Karl. Eles ensinam a Karl que a ciência ocidental não é a única lente rigorosa para ler o bioma.

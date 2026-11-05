@@ -50,6 +50,13 @@ Enquanto Karl e Jehanne lutam para equilibrar essas duas forças, os **Personage
 *   **Personalidade:** Um senhor idoso que se recusa a usar tecnologia moderna. Ele vê poesia em tudo, mas sua falta de rigor o faz confundir satélites de internet com "dragões de luz" e algoritmos com "feitiçaria".
 *   **A Dinâmica:** Ele é frequentemente motivo de piada na cidade, mas possui uma nobreza inabalável. Ele ensina a Karl que, sem a paixão e a coragem de sonhar (mesmo que de forma errada), o método científico é apenas uma máquina fria. Ele é o coração que falta a Jehanne.
 
+## 5. Alinhamento com a Evolução Axiomática de Peano
+As motivações de todos os personagens da Zona Cinzenta operam estritamente sob a mecânica da **Evolução Axiomática**. Seus comportamentos erráticos ou moralmente ambíguos não são "maldade gratuita" ou "loucura", mas sim o resultado de **Axiomas Degenerados** instalados em sua base cognitiva. 
+- **Ruan (Randi):** Seu ceticismo cínico deriva de um axioma de traição (a premissa de que toda crença é um golpe).
+- **Gregor/Quixote:** Sua fuga da realidade baseia-se no axioma de que o mundo material é insuportável sem uma camada de ficção heroica.
+Para que Karl ou Jehanne interajam com eles, não basta debater a superfície; a Lei do Esforço Produtivo exige que eles desçam até o axioma fundamental que sustenta a arquitetura psicológica de cada um para refutá-los.
+
+
 ---
 
 ### Conclusão Estrutural

@@ -14,6 +14,9 @@ Este documento estabelece o tecido sociopolítico de **Karl Sagan: A Vela no Cer
 *   **A Relação com Jehanne:** Jehanne herdou da mãe a coragem moral, o horror à mentira e a disposição para o sacrifício. Jehanne acompanha a mãe ao culto por amor e reverência ao seu caráter, mesmo mantendo uma postura intelectual cética e independente.
 *   **O Atrito com Karl:** Dona Dalva desconfia de Karl não por ódio, mas por instinto de proteção maternal. Ela enxerga o Karl inicial como um jovem arrogante que usa o "humanismo secular" como verniz para desdenhar da fé que sustentou sua família.
 
+> [!warning] NOTA DE ROTEIRO: A GUARDA ESPELHADA (ANTI-SANTIFICAÇÃO)
+> Dona Dalva possui uma fé genuína e empírica que a sustenta, mas **ela não é uma santa intocável**. Em obediência à Diretriz de Equilíbrio Ideológico (Guarda Espelhada), sua religiosidade não lhe confere perfeição moral automática. Ela possui falhas humanas, comete erros práticos de julgamento e pode apresentar contradições em seu cotidiano. A narrativa deve evitar qualquer "pieguice piedosa", tratando-a com a mesma tridimensionalidade, falibilidade e respeito exigidos dos personagens acadêmicos/ateus.
+
 ---
 
 ## 2. O Arco Epistêmico de Karl: As 3 Fases do Racionalismo

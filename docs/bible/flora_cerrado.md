@@ -14,3 +14,6 @@ Este documento estabelece as regras visuais e biológicas para os cenários do m
 ## 3. Regra de Arte (Settei de Cenário)
 *   **Proibição:** É estritamente proibido desenhar pinheiros, carvalhos, manguezais ou vegetação de clima temperado.
 *   **Traçado:** Os galhos do Cerrado devem ser desenhados com ângulos quebrados (escleromorfismo), refletindo a adaptação ao solo ácido e ao fogo natural.
+
+## 4. Nota Ecológica: A Pastagem de Orutuf
+A presença de animais de tração na periferia exige ancoragem estrita no bioma. **Orutuf**, o pangaré de Romão, sobrevive pastando gramíneas nativas e adaptadas do Cerrado nos terrenos baldios de Porto Nacional. Sua dieta consiste em capim-braquiária (espécie invasora comum nas bordas urbanas), capim-gordura e brotos de arbustos resistentes à seca. A dificuldade de Romão em encontrar forragem verde para Orutuf durante o período de estiagem severa (maio a setembro) é um elemento visual e narrativo constante que reforça a aridez do ambiente e o peso da sobrevivência material.
