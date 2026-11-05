@@ -21,19 +21,33 @@ O projeto rejeita a sobrecarga de hachuras e retículas do mangá japonês clás
    Azul-Céu, Ocre e Verde-Vereda)                 Branco-Estéril e Preto-Petróleo)
 ```
 
-*   **A Regra da Invasão:** Quando a *Névoa* ataca, ela não cria apenas fumaça; ela **drena a saturação** do cenário, transformando a exuberância do Cerrado em uma paisagem cinzenta e estéril.
-*   **A Restauração do Lúmen:** O golpe de Karl ou Jehanne "devolve a tinta" ao mundo.
+*   **A Invasão Cromática:** Quando a *Névoa* ataca, ela drena a saturação visual do ambiente.
+*   **A Restauração do Lúmen:** O impacto da evidência científica comprovada devolve as cores quentes e vibrantes ao cenário.
 
 ---
 
 ## 3. As Pseudagens como "Máquinas-Bichos" (Quimeras Conceituais)
-Inspirado nas criaturas industriais de Alê Abreu, os antagonistas não são humanos comuns nem robôs convencionais:
-*   **A Estufa:** Uma imensa cúpula bio-mecânica com tentáculos de fibra óptica que parece um casulo acolhedor, mas asfixia o pensamento crítico.
-*   **O Terraplanor:** Uma máquina colossal e quadrada que tenta aplainar morros e dobrar horizontes para que a realidade caiba em sua tese cega.
-*   **O Paleonauta:** Uma ave mecânica de metal enferrujado coberta de engrenagens falsas que rouba artefatos históricos humanos e os carimba com símbolos alienígenas.
+Inspirado nas criaturas industriais de Alê Abreu, os antagonistas são quimeras alegóricas:
+*   **A Estufa:** Uma imensa cúpula bio-mecânica com tentáculos de fibra óptica que parece um casulo protetor, mas asfixia o pensamento crítico.
+*   **O Terraplanor:** Uma máquina colossal e quadrada que tenta aplainar morros e dobrar horizontes para forçar a realidade a caber em seu dogma.
+*   **O Paleonauta:** Uma ave mecânica de metal enferrujado coberta de engrenagens falsas que rouba monumentos humanos e os carimba com selos alienígenas.
 
 ---
 
 ## 4. A Trava Epistêmica (Anti-Ludismo)
-*   **Atenção:** O visual das máquinas-bichos denuncia a *alienação e a preguiça intelectual*, nunca a tecnologia em si.
+*   **Atenção:** O visual das máquinas-bichos denuncia a *alienação e o comodismo intelectual*, nunca a tecnologia em si.
 *   O Lampião de Karl, a chave telegráfica de Jehanne e os telescópios são instrumentos nobres de ferro, vidro e cobre: representam a tecnologia como extensão da curiosidade humana.
+
+---
+
+## 5. Aplicação Prática em Roteiro (Show, Don't Tell)
+
+### Regra de Ouro: Proibição de Narração Metalinguística
+*   **NUNCA** escreva no balão ou no roteiro: *"A Névoa drena a saturação conforme a direção de arte."*
+*   **SEMPRE** descreva a ação puramente visual nos quadros:
+    *   *Exemplo Correto:* `**Q3 (Plano Geral):** As flores douradas do Ipê perdem o brilho, tornando-se folhas de cinza opaco. A terra vermelha da rua desbota para um tom de asfalto estéril.`
+
+### Checklist Pré-Commit de Roteiro (*Name*)
+- [ ] A perda de cor é sentida visualmente pela descrição do cenário, sem que os personagens precisem dar palestras sobre saturação?
+- [ ] O retorno do Lúmen restaura o contraste solar do Cerrado?
+- [ ] O Narrador limita-se a comentários breves e irônicos (estilo Douglas Adams), sem explicar regras visuais óbvias?

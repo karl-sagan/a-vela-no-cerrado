@@ -11,7 +11,8 @@ Este documento formaliza a personagem **Cintilante**, sua função dramática de
 | Atributo | Especificação |
 | :--- | :--- |
 | **Nome / Alcunha** | Cintilante |
-| **Origem Geográfica** | Pedro Afonso - TO (Encontro do Rio Tocantins com o Rio do Sono) |
+| **Origem Geográfica** | Pedro Afonso - TO (Encontro do Rio Tocantins com o Rio do Sono). |
+| **Presença em Porto Nacional** | Tratamento cardiológico regular no Hospital Regional (referência para cardiopatias graves). Conhece Karl na biblioteca pública próxima ao hospital. |
 | **Condição Médica** | Cardiomegalia progressiva grave ("coração grande"). Finitude consciente e medo da solidão súbita. |
 | **Sonho / Vocações** | Sonha em ser professora; é apaixonada pelo aprendizado da língua inglesa e pela literatura. |
 | **Objeto Fetiche / Relíquia** | Um exemplar surrado de *O Pequeno Príncipe* (Saint-Exupéry) que carrega para todos os lados. |
@@ -19,18 +20,27 @@ Este documento formaliza a personagem **Cintilante**, sua função dramática de
 
 ---
 
-## 2. A Função Dramática: O Colapso da Frieza de Karl
+## 2. A Função Dramática: O Colapso da Frieza de Karl (Esforço Produtivo Ativo)
 
 Cintilante surge em um arco futuro, durante um período de distanciamento e tensão metodológica entre Karl e Jehanne:
 
-1.  **A Cegueira Empirista de Karl:** Cintilante conversa com Karl sobre passagens de *O Pequeno Príncipe*, mas Karl — imerso em manuais de física, Popper e equações de rádio — desdenha da obra, considerando-a "fábula infantil sem rigor empírico".
-2.  **O Medo do Vazio:** Cintilante teme a solidão porque sabe que seu coração pode falhar a qualquer instante. Ela busca presença humana real; Karl oferece apenas argumentos teóricos.
-3.  **A Morte Súbita e a Mensagem da Irmã:** Cintilante falece em Pedro Afonso. Karl recebe a notícia por uma das irmãs dela, que narra os momentos finais e a ausência sentida.
-4.  **O Luto e o Livro como Talismã:** Desnorteado pela impotência diante da morte biológica, Karl compra um exemplar de *O Pequeno Príncipe*. Ao ler tarde demais, ele compreende a mente de Cintilante: a crítica ao "Homem de Negócios" que apenas soma estrelas, a lição da Rosa e a dor de não ter estado presente quando a escuta era necessária. Karl passa a guardar o livro permanentemente em sua mochila ao lado do Lampião.
+1.  **O Debate Frustrado:** Cintilante tenta compartilhar passagens de *O Pequeno Príncipe*, mas Karl — imerso em Popper e equações de rádio — desdenha: *"Fábula infantil sem rigor empírico"*. Cintilante o desafia com firmeza: *"Você mede o comprimento da sombra com perfeição, Karl... mas é cego para a luz que a projeta"*. Karl se recusa a debater literatura.
+2.  **A Pista Incompreendida:** Antes de falecer, Cintilante marca uma página do livro e anota a lápis uma relação matemática incompleta entre **tempo dedicado**, **presença física** e **entropia afetiva**. Karl vê a anotação, não a compreende e a guarda com arrogância.
+3.  **A Morte e o Trabalho Cognitivo do Luto:** Cintilante falece subitamente em Pedro Afonso. Karl recebe a notícia pela irmã dela, acompanhada do livro devolvido. Em choque com a irreversibilidade da morte, Karl passa noites em claro na calçada **trabalhando ativamente para resolver a dedução** da página marcada. Ao integrar a matemática com a lição da Rosa de Saint-Exupéry, ele decifra o enigma: o valor do vínculo não é mensurável pelo produto, mas pelo tempo investido no cuidado.
+4.  **A Aplicação Epistêmica no Combate:** No confronto seguinte contra uma Pseudagem (que alega que *"dados automatizados e frios substituem qualquer testemunho humano"*), Karl aplica a dedução de Cintilante como premissa lógica. O Lampião entra em combustão de **Lúmen Puro** — provando que ele conquistou a resposta pelo próprio esforço mental. O livro passa a ser guardado permanentemente em sua mochila.
 
 ---
 
-## 3. Impacto Epistêmico no Universo
+## 3. Conexões com a Teia de Personagens (Rede de Apoio)
 
-*   **A Refutação da Razão Pura:** A morte de Cintilante prova a Karl que nem todo sofrimento humano é solúvel por equações ou tecnologia. 
-*   **A Ponte para a Fase 3 (Rawls/Sandel):** O luto por Cintilante quebra a arrogância juvenil de Karl e abre caminho para a empatia moral que ele precisará para defender o Estado laico e a convivência justa com pessoas de diferentes cosmovisões (como Dona Dalva).
+| Personagem | Relação com Cintilante | Impacto no Universo |
+| :--- | :--- | :--- |
+| **Luiza do Pontal (Quilombola)** | Conhece Cintilante nas viagens de tratamento; fornece chás e fitoterapia do Cerrado (espinheira-santa, pata-de-vaca) para aliviar o cansaço cardíaco. | Integra a sabedoria ancestral da terra com a medicina hospitalar. |
+| **Suté Xerente (Indígena)** | Dialoga com Cintilante sobre os ciclos de vida e morte na natureza. | Ensina a ela e a Karl a aceitação serena da finitude cósmica. |
+
+---
+
+## 4. Diretriz Literária Anti-Pasteurização (Baseada no Estudo Villanova 2026)
+
+*   **O Alerta da Pesquisa:** Leitores tendem a preferir a previsibilidade de textos de IA pela menor fricção, mas a IA reduz em até 50% as marcas estilísticas e a dor real da experiência humana (*Nature Human Behaviour*, 2026).
+*   **Aplicação no Mangá:** A história de Cintilante **não pode ser facilitada**. O luto deve doer, a solidão da cardiopatia deve ser palpável e o arrependimento de Karl deve exigir reflexão do leitor. A IA organiza a decupagem técnica; o coração áspero e poético do Cerrado permanece sob domínio do autor humano.
