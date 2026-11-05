@@ -1,15 +1,45 @@
-# ⚙️ Framework Adversarial de Produção Vetorial (Mapa e Trilhos)
+# ⚙️ Framework Adversarial de Produção Vetorial (Mapa e Trilhos v2.2)
 
-> **Base Teórica:** Adaptado do modelo de governança de IA "Mapa e Trilhos" (Daniel Dines) e metodologias de *Red Teaming*.
-> **Objetivo:** Mitigar falhas cumulativas, perda de memória de sessão e alucinações em um projeto de mangá de longo prazo, utilizando um pipeline SVG Híbrido e versionamento Git.
+> **Base Teórica:** Adaptado do modelo de governança de IA "Mapa e Trilhos" (Daniel Dines), metodologias de *Red Teaming* e Neurobiologia da Aprendizagem (Atrito Cognitivo).
+> **Objetivo:** Mitigar falhas cumulativas, perda de memória de sessão e alucinações em um projeto de mangá de longo prazo, utilizando um pipeline SVG Híbrido, versionamento Git e Tokens de Estado Passivo.
 
 ---
 
-## A DINÂMICA ADVERSARIAL (Os Atores)
-O projeto opera sob uma triagem estrita para cada entrega:
-1.  **IA Geradora (ex: Gemini):** Produz o código SVG bruto, os roteiros (*Names*) e as expansões de mundo.
-2.  **IA Crítica (ex: Qwen / Auditoria de Prompt):** Ataca o artefato gerado buscando furos lógicos, violações da Trava 0, lixo XML e inconsistências com a Bíblia.
-3.  **Humano (Karl Sagan / Autor):** Arbitra o debate, executa o traçado manual no Inkscape (garantindo o *Air-Gap* artístico) e assina o commit no GitHub.
+## A DINÂMICA ADVERSARIAL (Os Atores e a Neuro-Cognição)
+O projeto opera sob uma triagem estrita para cada entrega, baseada no princípio de *Zero Sycophancy* (Zero Bajulação):
+1. **IA Geradora (ex: Gemini):** Produz o código SVG bruto, os roteiros (*Names*) e as expansões de mundo.
+2. **IA Crítica (Auditora de Atrito):** Ataca o artefato gerado buscando furos lógicos, violações da Trava 0 e inconsistências. Opera garantindo a **Reconstrução Caritativa (Steelman)** das premissas e aplicando a **Aporia Socrática** (perguntas cirúrgicas) para expor falhas estruturais e quebrar a ilusão de fluência.
+3. **Humano (Karl Sagan / Autor):** Atua como Barramento de Dados (Data Bus) e Árbitro Final. Arbitra o debate, executa o traçado manual no Inkscape (garantindo o *Air-Gap* artístico) e assina o commit no GitHub.
+
+---
+
+## PROTOCOLO DE ESTADO CONVERSACIONAL (TOKEN v2.2)
+Para evitar colapso de contexto em debates longos, o Humano não redige tags de roteamento. A gestão de estado é transferida para as IAs. 
+
+**Regra Absoluta de Formatação (As 4 Crases):**
+Todo e qualquer artefato de arquivo gerado pelas IAs DEVE ser delimitado obrigatoriamente por **4 crases** (````) no início e no fim, especificando a linguagem (ex: ````markdown, ````yaml, ````powershell). Isso impede o colapso de renderização de blocos aninhados de 3 crases em editores como Zed e VS Code.
+
+**Regra de Emissão de Estado:**
+Toda resposta gerada pela IA Geradora ou IA Crítica DEVE terminar com o bloco YAML abaixo. O Humano copia a resposta e cola na outra IA.
+
+```yaml
+[TOKEN DE ESTADO v2.2]
+TURNO_ID: <n monótono>
+HEAD_REPO: <SHA verificado | N/A>
+FASE_ATIVA: <fase de produção ou meta>
+CONFLITOS_ABERTOS:
+  - ID-01: <descrição curta do debate ativo>
+PROPOSTOS_PARA_ARBITRAGEM:
+  - ID-02: <decisão proposta; aguarda [ARBITRAGEM FINAL] do Humano>
+FECHADAS_REFERENCIAS:   # append-only; texto integral vive em docs/bible/cdrs.md
+  - CDR-XX: <resumo da decisão>
+ACAO_EXIGIDA_DO_DESTINO: <pedido cirúrgico para a próxima IA>
+```
+
+**Travas de Governança:**
+- **L1 (Autoridade):** Apenas o Humano pode mover um item de `PROPOSTOS_PARA_ARBITRAGEM` para `FECHADAS_REFERENCIAS` (via comando `[ESTADO: ARBITRAGEM FINAL]`).
+- **L2 (Anti-Regressão):** A IA receptora deve ler as `FECHADAS_REFERENCIAS` antes de processar o prompt. Omissão de ID já citado gera flag de DRIFT.
+- **L3 (Persistência):** O Token é a memória RAM. O arquivo `docs/bible/cdrs.md` é o Disco Rígido.
 
 ---
 
@@ -63,3 +93,5 @@ O projeto opera sob uma triagem estrita para cada entrega:
 | **Falta de Accountability** | O Humano é o único com a chave SSH (`id_ed25519`) para assinar o `git push`. A IA sugere, o Humano commita. |
 | **Alucinação Visual** | Proibição de geração raster direta para a obra final. Uso estrito de SVG modular (`<symbol>`) higienizado pelo Scour. |
 | **Falha Cumulativa** | Separação estrita de pastas (`scripts/` vs `assets/`). Um erro no roteiro não corrompe o código vetorial. |
+| **Colapso de Autoria/Sessão** | Uso obrigatório do **Token de Estado v2.2** ao final de cada resposta para rastrear conflitos abertos e decisões fechadas. |
+| **Quebra de Parsing (Syntax Crash)** | Uso obrigatório de **4 crases** (````) no encapsulamento de todos os blocos de artefato para permitir aninhamento limpo de blocos de 3 crases. |
