@@ -57,3 +57,13 @@ Para blindar o núcleo contra a estetização da pobreza e violações da Lei do
 1. **Função Obrigatória:** Toda cena dos irmãos exige função epistêmica para Karl OU agência própria deles. Sofrimento sem função é corte obrigatório na auditoria de roteiro.
 2. **Proibição do Salvador:** Os irmãos nunca serão "salvos por mágica" ou por Karl. Qualquer melhoria futura virá do esforço deles somado à infraestrutura coletiva (bolsa, cooperativa, professora), coerente com Sandel.
 3. **O Quintal como Sala de Aula:** A espera no quintal deve ser cena de pacto, não só de padecimento. É no escuro do quintal que Romildo vaza cor pelas rachaduras e Zonara decora a tabuada pela fresta de luz. O quintal é a sala de aula secreta deles.
+
+---
+
+## 5. O Pangaré: Orutuf
+
+* **Nome:** Orutuf (lê-se como se escreve; o feio do nome é o que o faz pegar).
+* **Origem diegética:** Zonara pintou "FUTURO" na tábua da carroça, da direita para a esquerda, para dar sorte. A rua leu ao contrário e o nome ficou; os irmãos o adotaram com orgulho.
+* **Camada sonora:** O esforço de tração vira kaki-moji recorrente `RRU… TUF` nas subidas de terra batida.
+* **Payoff dramático:** A única fala completa de Romão no arco é a resposta a Karl sobre o nome: "É 'futuro' do avesso. Cavalo de carroceiro não anda pra frente: segura o tranco pra gente não cair no buraco de ontem."
+* **Função temática:** O futuro que não chega como promessa, apenas como tração presente — a negação do "axioma do futuro" em forma animal.
