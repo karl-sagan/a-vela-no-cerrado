@@ -1,0 +1,90 @@
+<svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="sky-grad" x2="0" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B19" offset="0"/>
+      <stop stop-color="#0F1B38" offset=".5"/>
+      <stop stop-color="#1B2D59" offset=".85"/>
+      <stop stop-color="#3A2832" offset="1"/>
+    </linearGradient>
+    <radialGradient id="lumen-glow" cx="256" cy="300" r="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFEAA7" stop-opacity=".9" offset="0"/>
+      <stop stop-color="#F39C12" stop-opacity=".4" offset=".35"/>
+      <stop stop-color="#E67E22" stop-opacity=".15" offset=".7"/>
+      <stop stop-color="#E67E22" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <linearGradient id="flame-grad" x1="415.74" x2="415.74" y1="161.89" y2="123.62" gradientTransform="scale(.58867 1.6987)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D35400" offset="0"/>
+      <stop stop-color="#E67E22" offset=".4"/>
+      <stop stop-color="#F1C40F" offset=".75"/>
+      <stop stop-color="#fff" offset="1"/>
+    </linearGradient>
+    <linearGradient id="wax-grad" x1="376.31" x2="433.23" y1="186.57" y2="186.57" gradientTransform="scale(.63246 1.5811)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D5D8DC" offset="0"/>
+      <stop stop-color="#F8F9F9" offset=".3"/>
+      <stop stop-color="#EAEDED" offset=".7"/>
+      <stop stop-color="#BDC3C7" offset="1"/>
+    </linearGradient>
+    <linearGradient id="brass-grad">
+      <stop stop-color="#5D4037" offset="0"/>
+      <stop stop-color="#8D6E63" offset=".5"/>
+      <stop stop-color="#4E342E" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient40" x1="75.395" x2="158.56" y1="877.58" y2="877.58" gradientTransform="scale(2.1885 .45694)" gradientUnits="userSpaceOnUse" xlink:href="#brass-grad"/>
+    <linearGradient id="linearGradient41" x1="325.43" x2="351.88" y1="287.25" y2="287.25" gradientTransform="scale(.75593 1.3229)" gradientUnits="userSpaceOnUse" xlink:href="#brass-grad"/>
+    <clipPath id="clipPath41">
+      <circle cx="256" cy="256" r="240"/>
+    </clipPath>
+    <clipPath id="clipPath42">
+      <circle cx="256" cy="256" r="240"/>
+    </clipPath>
+    <clipPath id="clipPath43">
+      <circle cx="256" cy="256" r="240"/>
+    </clipPath>
+    <clipPath id="clipPath44">
+      <circle cx="256" cy="256" r="240"/>
+    </clipPath>
+    <clipPath id="clipPath45">
+      <circle cx="256" cy="256" r="240"/>
+    </clipPath>
+    <clipPath id="clipPath46">
+      <circle cx="256" cy="256" r="240"/>
+    </clipPath>
+    <clipPath id="clipPath47">
+      <circle cx="256" cy="256" r="240"/>
+    </clipPath>
+  </defs>
+  <circle cx="256" cy="256" r="248" fill="#1B2D59" stroke="#F1C40F" stroke-width="4"/>
+  <rect width="512" height="512" clip-path="url(#clipPath47)" fill="url(#sky-grad)"/>
+  <g clip-path="url(#clipPath46)" fill="#fff" opacity=".8">
+    <circle cx="100" cy="80" r="1.5"/>
+    <circle cx="140" cy="120" r="1.2"/>
+    <circle cx="190" cy="65" r="2"/>
+    <circle cx="240" cy="100" r="1"/>
+    <circle cx="320" cy="70" r="1.8"/>
+    <circle cx="380" cy="110" r="1.2"/>
+    <circle cx="420" cy="60" r="1.5"/>
+    <circle cx="90" cy="180" r="1"/>
+    <circle cx="430" cy="160" r="2"/>
+    <circle cx="280" cy="40" r="1.5"/>
+    <circle cx="360" cy="140" r="2.2"/>
+    <circle cx="360" cy="170" r="2"/>
+    <circle cx="345" cy="155" r="1.8"/>
+    <circle cx="375" cy="152" r="1.8"/>
+    <circle cx="367" cy="162" r="1.2"/>
+  </g>
+  <path d="m0 360q120-30 256-10t256-10v172h-512z" clip-path="url(#clipPath45)" fill="#0a0f1d"/>
+  <circle cx="256" cy="300" r="180" clip-path="url(#clipPath42)" fill="url(#lumen-glow)"/>
+  <g id="candle-object" clip-path="url(#clipPath41)">
+    <ellipse cx="256" cy="420" rx="90" ry="18" fill="url(#linearGradient40)" stroke="#271a15" stroke-width="2"/>
+    <ellipse cx="256" cy="415" rx="75" ry="12" fill="#3e2723"/>
+    <path d="m246 415v-30q0-5 10-5t10 5v30z" fill="url(#linearGradient41)"/>
+    <rect x="238" y="295" width="36" height="90" rx="4" fill="url(#wax-grad)"/>
+    <ellipse cx="256" cy="295" rx="18" ry="6" fill="#eaeded" stroke="#bdc3c7"/>
+    <path d="m256 295q-2-13 2-20" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-width="2.5"/>
+    <path d="m256 275c-14-10-16-35 0-65 16 30 14 55 0 65z" fill="url(#flame-grad)"/>
+    <ellipse cx="256" cy="272" rx="5" ry="4" fill="#3498db" opacity=".8"/>
+    <ellipse cx="256" cy="255" rx="4" ry="10" fill="#fff" opacity=".9"/>
+  </g>
+  <path d="m70 360c3.3333-26.667 0-50-10-70-6.6667-13.333-16.667-26.667-30-40 10 1.3333 19.753 19.019 32.093 29.838 3.3333-16.667 2.2556-43.028-2.0929-59.838 7.373 10.953 9.438 49.876 7.6322 62.489 3.2061 23.694 6.9047 38.894 8.3534 46.137 1.8964-7.9452 4.7061-22.367 1.1748-66.648 0.28113-15.972-12.382-31.833-9.6881-33.389 1.4429-0.38302 7.8391 16.052 12.826 27.494 0.08248 9.5562 0.1223 23.986 1.7697 28.9 7.5746-11.771 34.911-61.037 43.236-59.528-10.882 9.0559-28.987 36.058-35.654 56.058 6.1915-1.7784 26.08-14.737 40.35-11.513-6.7314 0.72704-34.271 6.6724-44.271 20.006-1.3766 20.504-10.455 50.325-0.72882 69.994z" clip-path="url(#clipPath44)" fill="#050811"/>
+  <path transform="translate(0 4.8021)" d="m430 350 2-60q-22-10-37 5 25-15 37-10 3-20 8-25 0 20-5 28 20-13 35 2-25-5-35 2l1 58z" clip-path="url(#clipPath43)" fill="#050811"/>
+</svg>

@@ -1,0 +1,86 @@
+# ==============================================================================
+# PROJETO: Karl Sagan - A Vela no Cerrado (.gitignore)
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Pastas Locais de Trabalho e Rascunho (Privacidade & OpSec)
+# (Use estas pastas livremente para rascunhos, fotos de família e testes locais)
+# ------------------------------------------------------------------------------
+drafts/
+temp/
+scratch/
+assets/raw_references/
+assets/temp/
+svg_base/
+
+# ------------------------------------------------------------------------------
+# 2. Arquivos Temporários de Imagem e Arte Vetorial (Inkscape / Upscayl)
+# ------------------------------------------------------------------------------
+*.bak
+*.backup
+*.autosave.svg
+*.emergency.svg
+*~
+*.tmp
+*.upscayl.png
+*.png.bak
+*.log
+
+# ------------------------------------------------------------------------------
+# 3. Segredos, Variáveis de Ambiente e Chaves de API
+# ------------------------------------------------------------------------------
+.env
+.env.*
+*.key
+*.pem
+*.token
+credentials.json
+
+# ------------------------------------------------------------------------------
+# 4. Metadados do Sistema Operacional (Windows / macOS / Linux)
+# ------------------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# ------------------------------------------------------------------------------
+# 5. Configurações Locais de Editores e IDEs (Zed, VS Code)
+# ------------------------------------------------------------------------------
+.zed/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# ------------------------------------------------------------------------------
+# 6. Ambientes Virtuais e Cache de Scripts (Python / Node / CLI)
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+node_modules/
+dist/*.tmp
+
+# ------------------------------------------------------------------------------
+# 7. Blindagem Pós-Incidente 01 (Rasters jamais versionados)
+# (A obra final é 100% vetorial; rasters são apenas referência local air-gapped)
+# ------------------------------------------------------------------------------
+*.png
+*.jpg
+*.jpeg
+*.webp
+# Exceção futura explícita, se um dia for indispensável (descomente e ajuste):
+# !assets/covers/exemplo.png
+
+# ------------------------------------------------------------------------------
+# 8. Logs e árvores geradas localmente na raiz
+# ------------------------------------------------------------------------------
+/*.txt
